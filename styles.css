@@ -1,0 +1,50 @@
+nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+.div1{
+    position: relative;
+    background-color:rgb(183, 193, 202);
+    padding: 200px;
+
+}
+.div2{
+    
+    border: 1px ;
+    box-shadow: 3px;
+    position: relative;
+    background-repeat: no-repeat;
+    top: 0px;
+    left: 0px;
+
+    
+}
+.div3{
+    border: 1px ;
+    box-shadow: 3px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    
+}
+.p1{
+    margin-left: 450px;
+}
+
+
+.last-p{
+    margin: auto;
+    background-color: #333 ;
+}
